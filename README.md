@@ -22,7 +22,7 @@ npm i @devdamo/cuid
 const cuid = require('@devdamo/cuid');
 
 // generates an id that is 10 digits/letters long
-cuit(10,1); // generates > r7pd7a55p0
+cuid(10,1); // generates > r7pd7a55p0
 
 // generates an id that is 10 numbers long and only numbers
 cuid(10,2); // generates > 7621902562
