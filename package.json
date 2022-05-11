@@ -1,5 +1,5 @@
 {
-  "name": "cuid",
+  "name": "@devdamo/cuid",
   "version": "1.0.0",
   "description": "customized unique id, returns a string id",
   "main": "src/index.js",
