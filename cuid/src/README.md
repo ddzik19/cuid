@@ -34,5 +34,7 @@ cuid(10,3); // generates > mletbuywgm
 ## Contributing
 Please do not attempt to create pull requests or try to contribute.
 
+# Author
+Damian Dzik
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
