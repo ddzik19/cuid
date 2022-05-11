@@ -1,4 +1,4 @@
-# cuid
+# @devdamo/cuid
 
 cuid is a javascript package that generates a random variable string id.
 
@@ -10,16 +10,16 @@ cuid stands for : customized unique id
 ## Installation
 
 ```
-npm install cuid
+npm install @devdamo/cuid
 ```
 ```
-npm i cuid
+npm i @devdamo/cuid
 ```
 
 ## Usage
 
 ```javascript
-const cuid = require('cuid');
+const cuid = require('@devdamo/cuid');
 
 // generates an id that is 10 digits/letters long
 cuit(10,1); // generates > r7pd7a55p0
